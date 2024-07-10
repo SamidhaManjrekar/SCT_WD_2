@@ -1,13 +1,13 @@
-# Tic Tac Toe
+# Stopwatch
 
-A simple, interactive Tic Tac Toe game built using HTML, CSS, and JavaScript. This project demonstrates basic web development skills and provides a fun way to play the classic game of Tic Tac Toe.
+A simple, interactive stopwatch application built using HTML, CSS, and JavaScript. This project showcases basic web development skills and provides a user-friendly interface for tracking time with start, pause, reset, and lap functionalities.
 
 ## Features
 
-- Interactive game board
-- Dynamic turn indicator
-- Win and draw detection
-- Reset button to start a new game
+- Start, pause, and reset the stopwatch
+- Record lap times
+- Display elapsed time in hours, minutes, seconds, and milliseconds
+- Responsive and clean user interface
 
 ## Technologies Used
 
@@ -15,10 +15,10 @@ A simple, interactive Tic Tac Toe game built using HTML, CSS, and JavaScript. Th
 - CSS
 - JavaScript
 
-## How to Play
+## How to Use
 
 1. Open `index.html` in your browser.
-2. Click on an empty cell to place your mark (X or O).
-3. The game will indicate the turn of the next player.
-4. The game will automatically detect and announce a winner or a draw.
-5. Click the "Reset Game" button to start a new game.
+2. Click the "Start" button to start the stopwatch.
+3. Click the "Pause" button to pause the stopwatch.
+4. Click the "Reset" button to reset the stopwatch to zero.
+5. Click the "Lap" button to record a lap time.
